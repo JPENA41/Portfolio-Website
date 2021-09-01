@@ -14,11 +14,11 @@ Text Color (Dark gray): #2b2b2b;
   */
 
 :root {     /* Baby Blue */   /* Soft Orange */        /* Dark Gray */
-  }
+}
 
 * {
   -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 body {
@@ -46,12 +46,12 @@ h3 {
 }
 
 a {
-  color: #05676e;
+  color: #191970;
 }
 
 a:visited {
   /* visited link */
-  color: #05676e;
+  color: #191970;
 }
 
 a:hover, a:focus {
@@ -188,7 +188,7 @@ a {/* element selector */
 }
 
 .grid__item {
-  background-color: lightgray;
+  background-color: #f4f4f4;
 }
 
 .grid {
